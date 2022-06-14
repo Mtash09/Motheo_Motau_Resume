@@ -1,0 +1,46 @@
+﻿/*Body*/
+body {
+    background-color: darkmagenta;
+    opacity: 0.9;
+    color: white;
+}
+
+/*Headings*/
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+/*Paragraph*/
+p {
+    text-align: center;
+}
+
+/*Lists*/
+ul {
+    list-style-type: none;
+}
+
+ol {
+    list-style-type: none;
+}
+
+.contents {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
+
+/*Links*/
+a {
+    color: deepskyblue;
+}
